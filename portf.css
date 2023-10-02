@@ -59,3 +59,22 @@ body {
         text-align: center;
         margin-top: auto; 
     }
+.navbar-nav .nav-link:hover {
+  color: #db2b43; 
+}
+
+
+.right-aligned-image img:hover {
+  transform: scale(1.1); /* Adjust the scale factor as needed */
+}
+
+.navbar-nav .nav-link {
+  transition: color 0.3s ease;
+}
+
+
+.right-aligned-image img {
+  transition: transform 0.3s ease;
+}
+
+
